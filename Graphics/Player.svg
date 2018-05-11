@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="47.132957mm"
+   height="47.132957mm"
+   viewBox="0 0 47.132957 47.132956"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="Player.svg"
+   style="enable-background:new">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4858">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4854" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="1"
+         id="stop4856" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4546"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4544"
+         d="M 0,841.89 H 595.28 V 0 H 0 Z" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4858"
+       id="radialGradient4860"
+       cx="54.280071"
+       cy="88.789261"
+       fx="64.701614"
+       fy="77.243805"
+       r="16.933334"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.99244297,1,1.5353936e-6,-34.509201,142.65899)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4948"
+       x="-0.078000002"
+       width="1.156"
+       y="-0.078000002"
+       height="1.156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0873683"
+         id="feGaussianBlur4950" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5556349"
+     inkscape:cx="118.88165"
+     inkscape:cy="46.683086"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer9"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:measure-start="-245.125,677.914"
+     inkscape:measure-end="-228.477,677.914"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4352"
+       units="mm"
+       spacingx="1.4173228"
+       spacingy="1.4173229"
+       empspacing="0"
+       originx="-30.713583"
+       originy="-184.64426" />
+    <sodipodi:guide
+       position="74.286415,-36.277827"
+       orientation="1,0"
+       id="guide4431"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="48.464648,-36.277822"
+       orientation="0,1"
+       id="guide4872"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="L=-2 h=0.8mm"
+     style="display:inline"
+     transform="translate(-30.713582,-65.222783)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="L=-1 h=0.8mm"
+     style="display:inline"
+     transform="translate(-30.713582,-65.222783)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="L=0 h=2mm"
+     style="display:inline"
+     transform="translate(-30.713582,-65.222783)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="L=0 h=10mm"
+     style="display:inline"
+     transform="translate(-30.713582,-65.222783)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="L=1 h=0.8mm"
+     style="display:inline"
+     transform="translate(-30.713582,-65.222783)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="L=2 h=0.8mm"
+     style="display:inline"
+     transform="translate(-30.713582,-65.222783)" />
+  <g
+     inkscape:label="USB"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-30.713582,-65.222783)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Other"
+     style="display:inline"
+     transform="translate(-30.713582,-65.222783)">
+    <circle
+       r="16.728743"
+       cy="90.376762"
+       cx="55.867561"
+       id="circle4862"
+       style="opacity:0.28600003;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.4091824;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter4948)" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient4860);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.4091824;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path4852"
+       cx="54.28006"
+       cy="88.789261"
+       r="16.728743" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Helpers"
+     style="display:inline"
+     transform="translate(-30.713582,-65.222783)" />
+</svg>
