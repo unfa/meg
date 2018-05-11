@@ -1,5 +1,6 @@
 # meg
-Music Exploration Game
+
+## Music Exploration Game
 
 The goal of this project is to create an interactive music experience.
 
@@ -10,3 +11,11 @@ The initial goal is to create a simple 2D top-view maze-walking game with multip
 The visuals and action should be kept very simple to not distract form the music.
 
 The intention is for an listening experience that changes based on user input, not necesarrily a video game where the music is cool and changes a lot.
+
+## Tools of the trade
+
+https://godotengine.org/ - open-source game engine
+http://www.ardour.org/ - open-source DAW
+http://zynaddsubfx.sourceforge.net/ - open-source sound synthesizer
+http://calf-studio-gear.org/ - open-source audio plugin bundle
+http://distrho.sourceforge.net/ - open-source audio plugin bundle
