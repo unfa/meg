@@ -15,7 +15,15 @@ The intention is for an listening experience that changes based on user input, n
 ## Tools of the trade
 
 https://godotengine.org/ - open-source game engine
+
 http://www.ardour.org/ - open-source DAW
+
 http://zynaddsubfx.sourceforge.net/ - open-source sound synthesizer
+
 http://calf-studio-gear.org/ - open-source audio plugin bundle
+
 http://distrho.sourceforge.net/ - open-source audio plugin bundle
+
+https://inkscape.org/en/ - open-source 2D vector graphics editor
+
+https://www.blender.org/ - open-source 3D graphics editor
