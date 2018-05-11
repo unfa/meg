@@ -20,6 +20,8 @@ http://www.ardour.org/ - open-source DAW
 
 http://zynaddsubfx.sourceforge.net/ - open-source sound synthesizer
 
+http://tytel.org/helm/ - open-source sound synthesizer
+
 http://calf-studio-gear.org/ - open-source audio plugin bundle
 
 http://distrho.sourceforge.net/ - open-source audio plugin bundle
