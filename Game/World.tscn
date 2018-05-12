@@ -1,9 +1,10 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=7 format=2]
 
-[ext_resource path="res://Player.png" type="Texture" id=1]
-[ext_resource path="res://C.ogg" type="AudioStream" id=2]
-[ext_resource path="res://E.ogg" type="AudioStream" id=3]
-[ext_resource path="res://G.ogg" type="AudioStream" id=4]
+[ext_resource path="res://Player.gd" type="Script" id=1]
+[ext_resource path="res://Player.png" type="Texture" id=2]
+[ext_resource path="res://C.ogg" type="AudioStream" id=3]
+[ext_resource path="res://E.ogg" type="AudioStream" id=4]
+[ext_resource path="res://G.ogg" type="AudioStream" id=5]
 
 [sub_resource type="CircleShape2D" id=1]
 
@@ -16,14 +17,15 @@ radius = 183.584
 
 position = Vector2( 488.639, 293.429 )
 scale = Vector2( 0.2, 0.2 )
-
-[node name="Sprite" type="Sprite" parent="Player" index="0"]
-
-scale = Vector2( 1, 1 )
-texture = ExtResource( 1 )
+script = ExtResource( 1 )
 __meta__ = {
 "_edit_group_": true
 }
+
+[node name="Sprite" type="Sprite" parent="Player" index="0"]
+
+position = Vector2( 0, 25.8118 )
+texture = ExtResource( 2 )
 
 [node name="Area2D" type="Area2D" parent="Player/Sprite" index="0"]
 
@@ -37,12 +39,11 @@ audio_bus_name = "Master"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player/Sprite/Area2D" index="0"]
 
-scale = Vector2( 1, 1 )
 shape = SubResource( 1 )
 
 [node name="Sound C" type="Node2D" parent="." index="1"]
 
-position = Vector2( -958.416, -303.891 )
+position = Vector2( -959.644, -303.891 )
 __meta__ = {
 "_edit_group_": true
 }
@@ -50,11 +51,11 @@ __meta__ = {
 [node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="Sound C" index="0"]
 
 position = Vector2( 21.2886, -40.8112 )
-stream = ExtResource( 2 )
+stream = ExtResource( 3 )
 volume_db = -25.05
 autoplay = true
 max_distance = 2000.0
-attenuation = 1.0
+attenuation = 2.54912
 bus = "Master"
 area_mask = 1
 
@@ -68,11 +69,11 @@ __meta__ = {
 [node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="Sound E" index="0"]
 
 position = Vector2( 21.2886, -40.8112 )
-stream = ExtResource( 3 )
+stream = ExtResource( 4 )
 volume_db = -25.05
 autoplay = true
 max_distance = 2000.0
-attenuation = 1.0
+attenuation = 2.54912
 bus = "Master"
 area_mask = 1
 
@@ -86,11 +87,11 @@ __meta__ = {
 [node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="Sound G" index="0"]
 
 position = Vector2( 21.2886, -40.8112 )
-stream = ExtResource( 4 )
+stream = ExtResource( 5 )
 volume_db = -25.05
 autoplay = true
 max_distance = 2000.0
-attenuation = 1.0
+attenuation = 2.54914
 bus = "Master"
 area_mask = 1
 
